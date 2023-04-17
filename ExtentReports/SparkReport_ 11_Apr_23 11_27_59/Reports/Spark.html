@@ -1,0 +1,1704 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title></title>
+<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png">
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png">
+<link href="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@d6562a79075e061305ccfdb82f01e5e195e2d307/spark/css/spark-style.css" rel="stylesheet" />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@7cc78ce/spark/js/jsontree.js"></script>
+<style type="text/css"></style></head><body class="spa bdd-report standard">
+  <div class="app">
+    <div class="layout">
+<div class="header navbar">
+<div class="vheader">
+<div class="nav-logo">
+<a href="#">
+<div class="logo" style="background-image: url('https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@b00a2d0486596e73dd7326beacf352c639623a0e/commons/img/logo.png')"></div>
+</a>
+</div>
+<ul class="nav-left">
+<li class="search-box">
+<a class="search-toggle" href="#">
+<i class="search-icon fa fa-search"></i>
+<i class="search-icon-close fa fa-close"></i>
+</a>
+</li>
+<li class="search-input"><input id="search-tests" class="form-control" type="text" placeholder="Search..."></li>
+</ul>
+<ul class="nav-right">
+<li class="m-r-10">
+<a href="#"><span class="badge badge-primary"></span></a>
+</li>
+<li class="m-r-10">
+<a href="#"><span class="badge badge-primary">Apr 11, 2023 11:27:58 AM</span></a>
+</li>
+</ul>
+</div>
+</div><div class="side-nav">
+<div class="side-nav-inner">
+<ul class="side-nav-menu">
+<li class="nav-item dropdown" onclick="toggleView('test-view')">
+<a id="nav-test" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-list"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('exception-view')">
+<a id="nav-exception" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-bug"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('category-view')">
+<a id="nav-category" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-tag"></i></span>
+</a>
+</li>
+<li class="nav-item dropdown" onclick="toggleView('dashboard-view')">
+<a id="nav-dashboard" class="dropdown-toggle" href="#">
+<span class="ico"><i class="fa fa-bar-chart"></i></span>
+</a>
+</li>
+</ul>
+</div>
+</div>      <div class="vcontainer">
+        <div class="main-content">
+<div class="test-wrapper row view test-view">
+  <div class="test-list">
+    <div class="test-list-tools">
+<ul class="tools pull-left">
+<li><a href="#"><span class="font-size-14">Tests</span></a></li>
+</ul>
+<ul class="tools text-right">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-exclamation-circle"></i></a>
+<ul id="status-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" status="pass" href="#"><span>Pass</span><span class="status success"></span></a>
+<a class="dropdown-item" status="fail" href="#"><span>Fail</span><span class="status danger"></span></a>
+<div class="dropdown-divider"></div>
+<a status="clear" class="dropdown-item" href="#"><span>Clear</span><span class="pull-right"><i class="fa fa-close"></i></span></a>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-tag"></i></a>
+<ul id="tag-toggle" class="dropdown-menu dropdown-md p-v-0">
+<a class="dropdown-item" href="#">@HomePage</a><a class="dropdown-item" href="#">@SignIn</a><a class="dropdown-item" href="#">@RegisterPage</a>
+</ul>
+</li>
+</ul>
+</div>    <div class="test-list-wrapper scrollable">
+      <ul class="test-list-item">
+        <li class="test-item"  status="pass" test-id="1"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">HomePage</p>
+            <p class="text-sm">
+              <span>11:28:07 AM</span> / <span>00:00:07:199</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">HomePage</h5>
+<span class='badge badge-success'>04.11.2023 11:28:07 AM</span>
+<span class='badge badge-danger'>04.11.2023 11:28:14 AM</span>
+<span class='badge badge-default'>00:00:07:199</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=1</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="2"><span class="badge log pass-bg mr-2">Pass</span>User launch home page of an dsalgo project</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_opens_ds_algo_portal_link()">
+                <span>Given The user opens DS Algo portal link</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_clicks_the_Get_Started_button()">
+                <span>When The user clicks the Get Started button</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_should_be_redirected_to_homepage()">
+                <span>Then The user should be redirected to homepage</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="10"><span class="badge log pass-bg mr-2">Pass</span>User is on Home page and click on sign in</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_opens_home_page()">
+                <span>Given The user opens Home Page</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_clicks_Sign_In()">
+                <span>When The user clicks Sign In</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_should_be_redirected_to_sign_in_page()">
+                <span>Then The user should be redirected to Sign in page</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="18"><span class="badge log pass-bg mr-2">Pass</span>User is on Home page and click on Register</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_opens_home_page()">
+                <span>Given The user opens Home Page</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_clicks_Register()">
+                <span>When The user clicks Register</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.HomeSD.the_user_should_be_redirected_to_register_form()">
+                <span>Then The user should be redirected to Register form</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="26"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">RegisterPage</p>
+            <p class="text-sm">
+              <span>11:28:14 AM</span> / <span>00:00:25:311</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">RegisterPage</h5>
+<span class='badge badge-success'>04.11.2023 11:28:14 AM</span>
+<span class='badge badge-danger'>04.11.2023 11:28:39 AM</span>
+<span class='badge badge-default'>00:00:25:311</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=26</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="27"><span class="badge log pass-bg mr-2">Pass</span>Validating Register Functionality</div>
+      </div>
+    </div>
+        <div class="scenario_outline collapse">
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="28"><span class="badge log pass-bg mr-2">Pass</span>Validating Register Functionality</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given The user opens DS Algo portal link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks the Get Started button</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user should be redirected to homepage</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks Register</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Given The user is on the Register page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user fills the form 'null' 'null'  'Siva@1234'</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user clicks RegisterButton</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="44"><span class="badge log pass-bg mr-2">Pass</span>Validating Register Functionality</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given The user opens DS Algo portal link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks the Get Started button</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user should be redirected to homepage</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks Register</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Given The user is on the Register page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user fills the form 'SivaShan' 'DsAlgo@123'  'DsAlgo@123'</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user clicks RegisterButton</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="60"><span class="badge log pass-bg mr-2">Pass</span>Validating Register Functionality</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given The user opens DS Algo portal link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks the Get Started button</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user should be redirected to homepage</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks Register</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Given The user is on the Register page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user fills the form 'DianaWill' 'PeterJack@123'  'PeterJack@123'</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user clicks RegisterButton</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="76"><span class="badge log pass-bg mr-2">Pass</span>Validating Register Functionality</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given The user opens DS Algo portal link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks the Get Started button</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user should be redirected to homepage</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks Register</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Given The user is on the Register page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user fills the form 'RajPatel' 'TestNg@123'  'TestNg@123'</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user clicks RegisterButton</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="pass" test-id="92"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">SignIn</p>
+            <p class="text-sm">
+              <span>11:28:40 AM</span> / <span>00:00:17:682</span>
+              <span class="badge pass-bg log float-right">Pass</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-pass">SignIn</h5>
+<span class='badge badge-success'>04.11.2023 11:28:40 AM</span>
+<span class='badge badge-danger'>04.11.2023 11:28:57 AM</span>
+<span class='badge badge-default'>00:00:17:682</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=92</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="93"><span class="badge log pass-bg mr-2">Pass</span>Validating SignIn Functionality</div>
+      </div>
+    </div>
+        <div class="scenario_outline collapse">
+            <div class="card-body l1">
+              <div class="card-header">
+                <div class="card-title outline-child">
+                  <div class="node" id="94"><span class="badge log pass-bg mr-2">Pass</span>Validating SignIn Functionality</div>
+                </div>
+              </div>
+              <div class="card-body mt-3 collapse">
+                  <div class="step pass-bg">
+                    <span>Given The user opens DS Algo portal link</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks the Get Started button</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user should be redirected to homepage</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user clicks Sign In</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Given The user is on the SignIn page</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>When The user fills the form with the data from sheet 'Data' and clicks LoginButton</span>
+      <div>
+      </div>
+                  </div>
+                  <div class="step pass-bg">
+                    <span>Then The user sign in successfully</span>
+      <div>
+      </div>
+                  </div>
+              </div>
+            </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="fail" test-id="110"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">Stack</p>
+            <p class="text-sm">
+              <span>11:28:57 AM</span> / <span>00:00:13:346</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">Stack</h5>
+<span class='badge badge-success'>04.11.2023 11:28:57 AM</span>
+<span class='badge badge-danger'>04.11.2023 11:29:11 AM</span>
+<span class='badge badge-default'>00:00:13:346</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=110</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="111"><span class="badge log pass-bg mr-2">Pass</span>User validates Operations in Stack page</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_getstarted_button_under_stack()">
+                <span>When User clicks on Getstarted button under Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_operations_in_stack()">
+                <span>Then User clicks on Operations in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_try_here_in_operations_in_stack()">
+                <span>When User clicks on Try here in Operations in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_enters_the_python_code_in_operations_in_stack()">
+                <span>When User enters the Python code in Operations in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.clicks_on_run_button_in_operations_in_stack()">
+                <span>And clicks on Run button in Operations in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="125"><span class="badge log pass-bg mr-2">Pass</span>User validates Implementation in Stack page</div>
+      </div>
+    </div>
+        <div class="collapse">
+          <div class="card-body">
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_getstarted_button_under_stack()">
+                <span>When User clicks on Getstarted button under Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_implementation_in_stack()">
+                <span>Then User clicks on Implementation in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_try_here_in_implementation_in_stack()">
+                <span>When User clicks on Try here in Implementation in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_enters_the_python_code_in_implementation_in_stack()">
+                <span>When User enters the Python code in Implementation in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.clicks_on_run_button_in_implementation_in_stack()">
+                <span>And clicks on Run button in Implementation in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="139"><span class="badge log fail-bg mr-2">Fail</span>User validates Applications in stack</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_getstarted_button_under_stack()">
+                <span>When User clicks on Getstarted button under Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_applications_in_stack()">
+                <span>Then User clicks on Applications in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_clicks_on_try_here_in_applications_in_stack()">
+                <span>When User clicks on Try here in Applications in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step pass-bg" title="StepDefinition.StackSD.user_enters_the_python_code_in_applications_in_stack()">
+                <span>When User enters the Python code in Applications in Stack</span>
+      <div>
+      </div>
+              </div>
+              <div class="step fail-bg" title="StepDefinition.StackSD.clicks_on_run_button_in_applications_in_stack()">
+                <span>And clicks on Run button in Applications in Stack</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : NameError: name 'Stack_invalid' is not defined on line 1}
+  (Session info: chrome=111.0.5563.147): NameError: name 'Stack_invalid' is not defined on line 1
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3f2229588d598e552902756eae08e3c, findElement {using=xpath, value=//button[text()='Run']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\sabar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61161/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3f2229588d598e552902756eae08e3c
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.StackPOM.clickOnrunBtn(StackPOM.java:84)
+	at StepDefinition.StackSD.clicks_on_run_button_in_applications_in_stack(StackSD.java:107)
+	at ✽.clicks on Run button in Applications in Stack(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC04_Stack.feature:35)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+        <li class="test-item"  status="fail" test-id="153"
+          author=""
+          tag=""
+          device="">
+          <div class="test-detail">
+            <p class="name">LinkedList</p>
+            <p class="text-sm">
+              <span>11:29:11 AM</span> / <span>00:00:11:695</span>
+              <span class="badge fail-bg log float-right">Fail</span>
+            </p>
+          </div>
+          <div class="test-contents d-none">
+<div class="detail-head">
+<div class="p-v-10">
+<div class="info">
+<h5 class="test-status text-fail">LinkedList</h5>
+<span class='badge badge-success'>04.11.2023 11:29:11 AM</span>
+<span class='badge badge-danger'>04.11.2023 11:29:23 AM</span>
+<span class='badge badge-default'>00:00:11:695</span>
+&middot; <span class='uri-anchor badge badge-default'>#test-id=153</span>
+<span class='badge badge-default pointer float-right ml-1 et'><i class="fa fa-chevron-down"></i></span>
+<span class='badge badge-default pointer float-right ct'><i class="fa fa-chevron-up"></i></span>
+</div>
+<div class="m-t-10 m-l-5"></div>
+</div>
+</div>
+<div class="accordion mt-4">
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="154"><span class="badge log fail-bg mr-2">Fail</span>User validates Introduction in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='linked-list']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3f2229588d598e552902756eae08e3c, findElement {using=xpath, value=//a[@href='linked-list']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\sabar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61161/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3f2229588d598e552902756eae08e3c
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:15)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_introduction_in_linked_list_page()">
+                <span>Then User clicks on Introduction in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_introduction_of_linked_list_page()">
+                <span>When User clicks on Try here button in Introduction of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_introduction_of_linked_list_page()">
+                <span>When User enters the Python code in text editor in Introduction of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_introduction_of_linked_list_page()">
+                <span>And clicks on Run button in Introduction of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="168"><span class="badge log fail-bg mr-2">Fail</span>User validates Creating Linked List in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='linked-list']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3f2229588d598e552902756eae08e3c, findElement {using=xpath, value=//a[@href='linked-list']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\sabar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61161/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3f2229588d598e552902756eae08e3c
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:24)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_creating_linked_list_in_linked_list_page()">
+                <span>Then User clicks on Creating Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_creating_linked_list_in_linked_list_page()">
+                <span>When User clicks on Try here button in Creating Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_creating_linked_list_in_linked_list_page()">
+                <span>When User enters the Python code in text editor in Creating Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_creating_linked_list_in_linked_list_page()">
+                <span>And clicks on Run button in Creating Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="182"><span class="badge log fail-bg mr-2">Fail</span>User validates Types of Linked List in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='linked-list']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3f2229588d598e552902756eae08e3c, findElement {using=xpath, value=//a[@href='linked-list']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\sabar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61161/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3f2229588d598e552902756eae08e3c
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:33)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_types_of_linked_list_in_linked_list_page()">
+                <span>Then User clicks on Types of Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_types_of_linked_list_in_linked_list_page()">
+                <span>When User clicks on Try here button in Types of Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_types_of_linked_list_in_linked_list_page()">
+                <span>When User enters the Python code in text editor in Types of Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_types_of_linked_list_in_linked_list_page()">
+                <span>And clicks on Run button in Types of Linked List in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="196"><span class="badge log fail-bg mr-2">Fail</span>User validates Implement Linked List in python in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='linked-list']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3f2229588d598e552902756eae08e3c, findElement {using=xpath, value=//a[@href='linked-list']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\sabar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61161/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3f2229588d598e552902756eae08e3c
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:42)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_implement_linked_list_in_python_in_linked_list_page()">
+                <span>Then User clicks on Implement Linked List in python in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_implement_linked_list_in_python_in_linked_list_page()">
+                <span>When User clicks on Try here button in Implement Linked List in python in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_implement_linked_list_in_python_in_linked_list_page()">
+                <span>When User enters the Python code in text editor in Implement Linked List in python in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_implement_linked_list_in_python_in_linked_list_page()">
+                <span>And clicks on Run button in Implement Linked List in python in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="210"><span class="badge log fail-bg mr-2">Fail</span>User validates Traversal in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.xpath: //a[@href='linked-list']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:51)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_traversal_in_linked_list_page()">
+                <span>Then User clicks on Traversal in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_traversal_of_linked_list_page()">
+                <span>When User clicks on Try here button in Traversal of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_traversal_of_linked_list_page()">
+                <span>When User enters the Python code in text editor in Traversal of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_traversal_of_linked_list_page()">
+                <span>And clicks on Run button in Traversal of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="224"><span class="badge log fail-bg mr-2">Fail</span>User validates Insertion in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : NameError: name 'Stack_invalid' is not defined on line 1}
+  (Session info: chrome=111.0.5563.147): NameError: name 'Stack_invalid' is not defined on line 1
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3f2229588d598e552902756eae08e3c, findElement {using=xpath, value=//a[@href='linked-list']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\sabar\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61161}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61161/devtoo..., se:cdpVersion: 111.0.5563.147, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e3f2229588d598e552902756eae08e3c
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:60)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_insertion_in_linked_list_page()">
+                <span>Then User clicks on Insertion in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_insertion_of_linked_list_page()">
+                <span>When User clicks on Try here button in Insertion of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_insertion_of_linked_list_page()">
+                <span>When User enters the Python code in text editor in Insertion of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_insertion_of_linked_list_page()">
+                <span>And clicks on Run button in Insertion of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+  <div class="card">
+    <div class="card-header" role="tab">
+      <div class="card-title">
+        <div class="node" id="238"><span class="badge log fail-bg mr-2">Fail</span>User validates Deletion in Linked List page</div>
+      </div>
+    </div>
+        <div class="">
+          <div class="card-body">
+              <div class="step fail-bg" title="StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list()">
+                <span>When User clicks on Getstarted button under Linked List</span>
+      <div>
+        <textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: Unable to find element with locator By.xpath: //a[@href='linked-list']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at PageObjectModel.LinkedListPOM.clickOnGetStarted(LinkedListPOM.java:60)
+	at StepDefinition.LinkedListSD.user_clicks_on_getstarted_button_under_linked_list(LinkedListSD.java:18)
+	at ✽.User clicks on Getstarted button under Linked List(file:///E:/Narmadha%20SDET/DSALGO_2/src/test/resources/Features/TC05_LinkedList.feature:70)
+</textarea>
+      
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_deletion_in_linked_list_page()">
+                <span>Then User clicks on Deletion in Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_clicks_on_try_here_button_in_deletion_of_linked_list_page()">
+                <span>When User clicks on Try here button in Deletion of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.user_enters_the_python_code_in_text_editor_in_deletion_of_linked_list_page()">
+                <span>When User enters the Python code in text editor in Deletion of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.LinkedListSD.clicks_on_run_button_in_deletion_of_linked_list_page()">
+                <span>And clicks on Run button in Deletion of Linked List page</span>
+      <div>Step skipped
+      </div>
+              </div>
+              <div class="step skip-bg" title="StepDefinition.StackSD.user_is_navigated_to_home_page(java.lang.String)">
+                <span>Then user is navigated to home page "https://dsportalapp.herokuapp.com/home"</span>
+      <div>Step skipped
+      </div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+<div class="test-content scrollable">
+<div class="test-content-tools">
+<ul><li><a class="back-to-test" href="#"><i class="fa fa-arrow-left"></i></a></li></ul>
+</div>
+<div class="test-content-detail"><div class="detail-body"></div></div>
+</div></div>
+<div class="test-wrapper row view exception-view attributes-view">
+<div class="test-list">
+<div class="test-list-tools">
+<ul class="tools pull-left"><li><a href=""><span class="font-size-14">Exception</span></a></li></ul>
+<ul class="tools text-right"><li><a href="#"><span class="badge badge-primary">2</span></a></li></ul>
+</div>
+<div class="test-list-wrapper scrollable">
+<ul class="test-list-item">
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log badge-danger'>2</span>
+</span>
+<p class="name">org.openqa.selenium.UnhandledAlertException</p>
+<p class="duration text-sm">2 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>org.openqa.selenium.UnhandledAlertException</h4>
+<span status="fail" class='badge log badge-danger'>2 failed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:10 AM</td>
+<td>
+<a href="#" class="linked" test-id='110' id='149'>And clicks on Run button in Applications in Stack</a>
+<div class="">
+<span class="badge badge-default">Stack.User validates Applications in stack.And clicks on Run button in Applications in Stack</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:21 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='226'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Insertion in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log badge-danger'>6</span>
+</span>
+<p class="name">org.openqa.selenium.NoSuchElementException</p>
+<p class="duration text-sm">6 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>org.openqa.selenium.NoSuchElementException</h4>
+<span status="fail" class='badge log badge-danger'>6 failed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:11 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='156'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Introduction in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:13 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='170'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Creating Linked List in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:15 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='184'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Types of Linked List in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:17 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='198'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Implement Linked List in python in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:19 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='212'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Traversal in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="fail">
+<td><span class="badge log fail-bg">Fail</span></td>
+<td>11:29:21 AM</td>
+<td>
+<a href="#" class="linked" test-id='153' id='240'>When User clicks on Getstarted button under Linked List</a>
+<div class="">
+<span class="badge badge-default">LinkedList.User validates Deletion in Linked List page.When User clicks on Getstarted button under Linked List</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="test-content scrollable">
+<div class="test-content-detail">
+<div class="detail-body"></div>
+</div>
+</div>
+</div><div class="test-wrapper row view category-view attributes-view">
+<div class="test-list">
+<div class="test-list-tools">
+<ul class="tools pull-left"><li><a href=""><span class="font-size-14">Category</span></a></li></ul>
+<ul class="tools text-right"><li><a href="#"><span class="badge badge-primary">3</span></a></li></ul>
+</div>
+<div class="test-list-wrapper scrollable">
+<ul class="test-list-item">
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>3</span>
+</span>
+<p class="name">@HomePage</p>
+<p class="duration text-sm">3 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@HomePage</h4>
+<span status="pass" class='badge log pass-bg'>3 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:07 AM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='2'>User launch home page of an dsalgo project</a>
+<div class="">
+<span class="badge badge-default">HomePage.User launch home page of an dsalgo project</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:09 AM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='10'>User is on Home page and click on sign in</a>
+<div class="">
+<span class="badge badge-default">HomePage.User is on Home page and click on sign in</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:12 AM</td>
+<td>
+<a href="#" class="linked" test-id='1' id='18'>User is on Home page and click on Register</a>
+<div class="">
+<span class="badge badge-default">HomePage.User is on Home page and click on Register</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>1</span>
+</span>
+<p class="name">@SignIn</p>
+<p class="duration text-sm">1 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@SignIn</h4>
+<span status="pass" class='badge log pass-bg'>1 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:40 AM</td>
+<td>
+<a href="#" class="linked" test-id='92' id='94'>Validating SignIn Functionality</a>
+<div class="">
+<span class="badge badge-default">SignIn.Validating SignIn Functionality</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li class="test-item">
+<div class="test-detail">
+<span class="meta">
+<span class='badge log pass-bg'>4</span>
+</span>
+<p class="name">@RegisterPage</p>
+<p class="duration text-sm">4 tests</p>
+</div>
+<div class="test-contents d-none">
+<div class="info">
+<h4>@RegisterPage</h4>
+<span status="pass" class='badge log pass-bg'>4 passed</span>
+</div>
+<table class='table table-sm mt-4'>
+<thead>
+<tr>
+<th class="status-col">Status</th>
+<th class="timestamp-col">Timestamp</th>
+<th>TestName</th>
+</tr>
+</thead>
+<tbody>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:14 AM</td>
+<td>
+<a href="#" class="linked" test-id='26' id='28'>Validating Register Functionality</a>
+<div class="">
+<span class="badge badge-default">RegisterPage.Validating Register Functionality</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:21 AM</td>
+<td>
+<a href="#" class="linked" test-id='26' id='44'>Validating Register Functionality</a>
+<div class="">
+<span class="badge badge-default">RegisterPage.Validating Register Functionality</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:28 AM</td>
+<td>
+<a href="#" class="linked" test-id='26' id='60'>Validating Register Functionality</a>
+<div class="">
+<span class="badge badge-default">RegisterPage.Validating Register Functionality</span>
+</div>
+</td>
+</tr>
+<tr class="tag-test-status" status="pass">
+<td><span class="badge log pass-bg">Pass</span></td>
+<td>11:28:34 AM</td>
+<td>
+<a href="#" class="linked" test-id='26' id='76'>Validating Register Functionality</a>
+<div class="">
+<span class="badge badge-default">RegisterPage.Validating Register Functionality</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="test-content scrollable">
+<div class="test-content-detail">
+<div class="detail-body"></div>
+</div>
+</div>
+</div><div class="container-fluid p-4 view dashboard-view">
+<div class="row">
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0">Started</p>
+<h3>Apr 11, 2023 11:27:58 AM</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0">Ended</p>
+<h3>Apr 11, 2023 11:29:23 AM</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0 text-pass">Features Passed</p>
+<h3>3</h3>
+</div></div>
+</div>
+<div class="col-md-3">
+<div class="card"><div class="card-body">
+<p class="m-b-0 text-fail">Features Failed</p>
+<h3>2</h3>
+</div></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Features</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='parent-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='60%'>
+<b>3</b> features passed
+</small>
+</div>
+<div>
+<small data-tooltip='40%'><b>2</b> features failed,
+<b>0</b> skipped, <b data-tooltip='0%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Scenarios</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='child-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='55%'><b>10</b> scenarios passed</small></div>
+<div>
+<small data-tooltip='44%'><b>8</b> scenarios failed,
+<b>0</b> skipped, <b data-tooltip='%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card">
+<div class="card-header">
+<h6 class="card-title">Steps</h6>
+</div>
+<div class="card-body">
+<div class="">
+<canvas id='grandchild-analysis' width='115' height='90'></canvas>
+</div>
+</div>
+<div class="card-footer">
+<div><small data-tooltip='57%'><b>60</b> steps passed</small></div>
+<div>
+<small data-tooltip='7%'><b>8</b> steps failed,
+<b>36</b> skipped, <b data-tooltip='%'>0</b> others
+</small>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row"><div class="col-md-12">
+<div class="card"><div class="card-header"><p>Timeline</p></div>
+<div class="card-body pt-0"><div>
+<canvas id="timeline" height="120"></canvas>
+</div></div>
+</div>
+</div></div>
+<script>
+var timeline = {
+"HomePage":7.199,"RegisterPage":25.311,"SignIn":17.682,"Stack":13.346,"LinkedList":11.695
+};
+</script>
+<div class="row">
+<div class="col-lg-6 col-md-12 category-container">
+<div class="card">
+<div class="card-header"><p>Tags</p></div>
+<div class="card-body pb-0 pt-0"><table class="table table-sm table-bordered">
+<thead><tr class="bg-gray"><th>Name</th><th>Passed</th><th>Failed</th><th>Skipped</th><th>Others</th><th>Passed %</th></tr></thead><tbody>
+<tr>
+<td>@HomePage</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@SignIn</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>@RegisterPage</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>100%</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+<div class="col-lg-6 col-md-12 sysenv-container">
+<div class="card">
+<div class="card-header"><p>System/Environment</p></div>
+<div class="card-body pb-0 pt-0"><table class="table table-sm table-bordered">
+<thead><tr class="bg-gray"><th>Name</th><th>Value</th></tr></thead>
+<tbody>
+<tr>
+<td>Engineer</td>
+<td>Narmadha</td>
+</tr>
+<tr>
+<td>Project</td>
+<td>DSALGO_2</td>
+</tr>
+<tr>
+<td>Browser</td>
+<td>Google Chrome</td>
+</tr>
+<tr>
+<td>os</td>
+<td>windows</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+</div>
+</div>
+<script>
+var statusGroup = {
+parentCount: 5,
+passParent: 3,
+failParent: 2,
+warningParent: 0,
+skipParent: 0,
+childCount: 5,
+passChild: 10,
+failChild: 8,
+warningChild: 0,
+skipChild: 0,
+infoChild: 0,
+grandChildCount: 5,
+passGrandChild: 60,
+failGrandChild: 8,
+warningGrandChild: 0,
+skipGrandChild: 36,
+infoGrandChild: 0,
+eventsCount: 5,
+};
+</script>        </div>
+      </div>
+    </div>
+  </div>
+<script src="https://cdn.jsdelivr.net/gh/extent-framework/extent-github-cdn@d6562a79075e061305ccfdb82f01e5e195e2d307/spark/js/spark-script.js"></script>
+<script type="text/javascript"></script></body>
+</html>

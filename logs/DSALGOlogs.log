@@ -1,0 +1,553 @@
+[INFO ] 2023-04-13 14:10:04.001 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:05.928 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-13 14:10:09.308 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-13 14:10:09.640 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-13 14:10:10.854 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-13 14:10:11.328 [main] StackSD - The user is navigated to home page
+[INFO ] 2023-04-13 14:10:12.064 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:12.788 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-13 14:10:14.509 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-13 14:10:14.776 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-13 14:10:15.937 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-13 14:10:16.489 [main] StackSD - The user is navigated to home page
+[INFO ] 2023-04-13 14:10:17.435 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:18.243 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-13 14:10:20.020 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-13 14:10:20.391 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-13 14:10:21.555 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-13 14:10:22.166 [main] StackSD - The user is navigated to home page
+[INFO ] 2023-04-13 14:10:23.669 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:27.304 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-13 14:10:28.957 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-13 14:10:29.359 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-13 14:10:30.518 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-13 14:10:32.517 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:33.666 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-13 14:10:35.505 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-13 14:10:35.814 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-13 14:10:36.986 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-13 14:10:38.570 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:40.234 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-13 14:10:41.971 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-13 14:10:42.408 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-13 14:10:43.536 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-13 14:10:44.933 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:47.291 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-13 14:10:49.249 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-13 14:10:49.630 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-13 14:10:50.770 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-13 14:10:52.837 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:10:54.562 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-13 14:10:56.432 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-13 14:10:56.849 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-13 14:10:57.992 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-13 14:11:00.432 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:11:02.806 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-13 14:11:04.870 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-13 14:11:05.328 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-13 14:11:06.499 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-13 14:11:07.823 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:11:08.817 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-13 14:11:10.126 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-13 14:11:10.520 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-13 14:11:11.685 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-13 14:15:41.877 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:15:43.481 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-13 14:15:47.318 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-13 14:15:47.598 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-13 14:15:48.822 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-13 14:15:49.862 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:15:50.493 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-13 14:15:51.823 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-13 14:15:52.127 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-13 14:15:53.310 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-13 14:15:54.363 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:15:55.079 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-13 14:15:56.601 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-13 14:15:57.012 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-13 14:15:58.180 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-13 14:16:00.739 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:02.068 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-13 14:16:03.126 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-13 14:16:03.497 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-13 14:16:04.665 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-13 14:16:05.868 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:06.526 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-13 14:16:07.784 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-13 14:16:08.103 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-13 14:16:09.275 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-13 14:16:10.796 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:11.776 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-13 14:16:13.121 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-13 14:16:13.381 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-13 14:16:14.520 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-13 14:16:15.724 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:17.203 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-13 14:16:18.386 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-13 14:16:18.675 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-13 14:16:19.820 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-13 14:16:21.123 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:21.867 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-13 14:16:23.239 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-13 14:16:23.652 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-13 14:16:24.812 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-13 14:16:25.877 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:26.990 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-13 14:16:28.125 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-13 14:16:28.439 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-13 14:16:29.585 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-13 14:16:31.213 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-13 14:16:32.058 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-13 14:16:33.314 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-13 14:16:33.620 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-13 14:16:34.781 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 14:57:11.582 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:12.064 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-14 14:57:12.534 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-14 14:57:12.721 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-14 14:57:13.812 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-14 14:57:14.625 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:15.047 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-14 14:57:15.517 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-14 14:57:15.673 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-14 14:57:16.805 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-14 14:57:17.746 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:18.226 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-14 14:57:18.664 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-14 14:57:18.823 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-14 14:57:19.919 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-14 14:57:20.671 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:21.066 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-14 14:57:21.544 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-14 14:57:21.722 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-14 14:57:22.797 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-14 14:57:23.598 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:24.024 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-14 14:57:24.495 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-14 14:57:24.696 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-14 14:57:25.782 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-14 14:57:26.797 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:27.301 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-14 14:57:27.703 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-14 14:57:27.869 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-14 14:57:28.974 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-14 14:57:29.846 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:30.247 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-14 14:57:30.699 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-14 14:57:30.889 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-14 14:57:31.989 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 14:57:32.763 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:33.202 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-14 14:57:33.655 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-14 14:57:33.833 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-14 14:57:34.936 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-14 14:57:35.582 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:36.025 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-14 14:57:36.444 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-14 14:57:36.587 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-14 14:57:37.693 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-14 14:57:38.659 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 14:57:39.104 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-14 14:57:39.555 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-14 14:57:39.711 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-14 14:57:40.892 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-14 18:18:20.547 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:21.126 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-14 18:18:21.562 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-14 18:18:21.746 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-14 18:18:22.889 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-14 18:18:23.603 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:23.975 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-14 18:18:24.471 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-14 18:18:24.679 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-14 18:18:25.773 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-14 18:18:26.478 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:26.957 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-14 18:18:27.380 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-14 18:18:27.557 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-14 18:18:28.636 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-14 18:18:29.416 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:30.008 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-14 18:18:30.449 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-14 18:18:30.628 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-14 18:18:31.708 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-14 18:18:32.537 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:33.003 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-14 18:18:33.445 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-14 18:18:33.623 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-14 18:18:34.718 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-14 18:18:35.358 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:35.817 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-14 18:18:36.262 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-14 18:18:36.445 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-14 18:18:37.544 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-14 18:18:38.319 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:38.729 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-14 18:18:39.184 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-14 18:18:39.374 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-14 18:18:40.518 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 18:18:41.218 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:41.688 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-14 18:18:42.108 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-14 18:18:42.266 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-14 18:18:43.357 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-14 18:18:44.034 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:44.456 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-14 18:18:44.879 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-14 18:18:45.056 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-14 18:18:46.126 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-14 18:18:46.988 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:18:47.412 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-14 18:18:47.822 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-14 18:18:48.006 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-14 18:18:49.112 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-14 18:49:08.604 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:09.112 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-14 18:49:09.682 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-14 18:49:09.949 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-14 18:49:11.077 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-14 18:49:11.814 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:12.486 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-14 18:49:13.063 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-14 18:49:13.334 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-14 18:49:14.481 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-14 18:49:15.166 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:15.794 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-14 18:49:16.340 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-14 18:49:16.576 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-14 18:49:17.695 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-14 18:49:18.446 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:18.959 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-14 18:49:19.504 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-14 18:49:19.707 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-14 18:49:20.805 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-14 18:49:21.785 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:22.323 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-14 18:49:22.844 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-14 18:49:23.084 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-14 18:49:24.208 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-14 18:49:24.903 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:25.450 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-14 18:49:25.921 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-14 18:49:26.131 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-14 18:49:27.223 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-14 18:49:27.947 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:28.634 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-14 18:49:29.158 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-14 18:49:29.388 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-14 18:49:30.486 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 18:49:31.289 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:31.848 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-14 18:49:32.407 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-14 18:49:32.622 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-14 18:49:33.723 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-14 18:49:34.549 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:35.121 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-14 18:49:35.676 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-14 18:49:35.876 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-14 18:49:36.988 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-14 18:49:37.814 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 18:49:38.283 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-14 18:49:38.800 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-14 18:49:39.001 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-14 18:49:40.119 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-14 19:11:41.394 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:11:42.572 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-14 19:11:44.191 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-14 19:11:44.496 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-14 19:11:45.685 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-14 19:11:46.997 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:11:48.067 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-14 19:11:49.272 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-14 19:11:49.528 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-14 19:11:50.669 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-14 19:11:52.057 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:11:53.019 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-14 19:11:54.539 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-14 19:11:54.848 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-14 19:11:55.982 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-14 19:11:57.906 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:11:58.856 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-14 19:12:00.398 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-14 19:12:00.695 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-14 19:12:01.815 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-14 19:12:03.335 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:12:03.975 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-14 19:12:05.439 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-14 19:12:05.758 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-14 19:12:06.893 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-14 19:12:08.182 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:12:09.557 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-14 19:12:11.283 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-14 19:12:11.578 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-14 19:12:12.718 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-14 19:12:14.235 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:12:15.478 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-14 19:12:16.899 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-14 19:12:17.177 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-14 19:12:18.293 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 19:12:19.865 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:12:20.990 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-14 19:12:22.327 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-14 19:12:22.640 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-14 19:12:23.795 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-14 19:12:25.062 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:12:25.537 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-14 19:12:26.962 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-14 19:12:27.179 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-14 19:12:28.306 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-14 19:12:29.451 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 19:12:30.084 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-14 19:12:31.835 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-14 19:12:32.062 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-14 19:12:33.221 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-14 22:18:28.605 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:29.077 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-14 22:18:29.595 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-14 22:18:29.819 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-14 22:18:30.939 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-14 22:18:31.362 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:31.753 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-14 22:18:32.179 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-14 22:18:32.382 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-14 22:18:33.522 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-14 22:18:34.084 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:34.530 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-14 22:18:34.997 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-14 22:18:35.312 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-14 22:18:36.441 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-14 22:18:37.005 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:37.472 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-14 22:18:37.937 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-14 22:18:38.324 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-14 22:18:39.619 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-14 22:18:40.148 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:40.537 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-14 22:18:40.956 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-14 22:18:41.079 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-14 22:18:42.239 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-14 22:18:42.825 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:43.384 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-14 22:18:43.890 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-14 22:18:44.145 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-14 22:18:45.298 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-14 22:18:45.757 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:46.168 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-14 22:18:46.552 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-14 22:18:46.679 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-14 22:18:47.849 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 22:18:48.252 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:48.737 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-14 22:18:49.185 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-14 22:18:49.350 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-14 22:18:50.472 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-14 22:18:50.855 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:51.254 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-14 22:18:51.647 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-14 22:18:51.757 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-14 22:18:52.862 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-14 22:18:53.465 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:18:53.938 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-14 22:18:54.400 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-14 22:18:54.735 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-14 22:18:55.969 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-14 22:51:29.976 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:30.294 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-14 22:51:30.649 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-14 22:51:30.839 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-14 22:51:32.048 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-14 22:51:32.543 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:32.984 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-14 22:51:33.433 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-14 22:51:33.650 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-14 22:51:34.807 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-14 22:51:35.310 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:35.741 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-14 22:51:36.092 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-14 22:51:36.306 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-14 22:51:37.508 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-14 22:51:37.843 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:38.284 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-14 22:51:38.712 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-14 22:51:38.903 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-14 22:51:40.002 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-14 22:51:40.483 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:40.887 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-14 22:51:41.275 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-14 22:51:41.438 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-14 22:51:42.542 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-14 22:51:42.951 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:43.352 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-14 22:51:43.699 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-14 22:51:43.801 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-14 22:51:44.926 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-14 22:51:45.289 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:45.615 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-14 22:51:45.977 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-14 22:51:46.218 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-14 22:51:47.331 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-14 22:51:47.856 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:48.290 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-14 22:51:48.772 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-14 22:51:49.006 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-14 22:51:50.158 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-14 22:51:50.438 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:50.815 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-14 22:51:51.275 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-14 22:51:51.398 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-14 22:51:52.511 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-14 22:51:52.872 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-14 22:51:53.302 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-14 22:51:53.744 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-14 22:51:53.993 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-14 22:51:55.182 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-16 17:56:46.392 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:56:46.823 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-16 17:56:47.175 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-16 17:56:47.405 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-16 17:56:48.623 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-16 17:56:49.130 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:56:49.558 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-16 17:56:49.989 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-16 17:56:50.218 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-16 17:56:51.385 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-16 17:56:51.998 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:56:52.484 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-16 17:56:52.917 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-16 17:56:53.209 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-16 17:56:54.416 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-16 17:56:54.910 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:56:55.315 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-16 17:56:55.729 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-16 17:56:55.974 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-16 17:56:57.110 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-16 17:56:57.615 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:56:58.014 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-16 17:56:58.485 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-16 17:56:58.838 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-16 17:56:59.998 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-16 17:57:00.477 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:57:00.923 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-16 17:57:01.359 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-16 17:57:01.633 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-16 17:57:02.841 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-16 17:57:04.141 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:57:04.643 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-16 17:57:05.068 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-16 17:57:05.314 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-16 17:57:06.523 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-16 17:57:07.132 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:57:07.697 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-16 17:57:08.323 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-16 17:57:08.492 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-16 17:57:09.697 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-16 17:57:10.087 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:57:10.378 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-16 17:57:10.706 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-16 17:57:10.844 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-16 17:57:11.966 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-16 17:57:12.242 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 17:57:12.537 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-16 17:57:12.888 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-16 17:57:13.011 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-16 17:57:14.130 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-16 18:41:17.178 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:17.709 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-16 18:41:18.048 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-16 18:41:18.190 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-16 18:41:19.336 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-16 18:41:19.817 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:20.109 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-16 18:41:20.426 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-16 18:41:20.547 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-16 18:41:21.647 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-16 18:41:22.044 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:22.420 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-16 18:41:22.748 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-16 18:41:22.859 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-16 18:41:23.967 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-16 18:41:24.348 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:24.630 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-16 18:41:24.947 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-16 18:41:25.081 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-16 18:41:26.172 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-16 18:41:26.579 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:26.878 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-16 18:41:27.259 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-16 18:41:27.529 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-16 18:41:28.784 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-16 18:41:29.352 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:29.861 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-16 18:41:30.314 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-16 18:41:30.628 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-16 18:41:31.824 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-16 18:41:32.603 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:33.081 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-16 18:41:33.529 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-16 18:41:33.853 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-16 18:41:35.082 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-16 18:41:35.537 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:35.917 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-16 18:41:36.246 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-16 18:41:36.352 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-16 18:41:37.443 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-16 18:41:37.717 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:37.992 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-16 18:41:38.306 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-16 18:41:38.405 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-16 18:41:39.495 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-16 18:41:39.791 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:41:40.065 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-16 18:41:40.390 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-16 18:41:40.496 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-16 18:41:41.599 [main] StackSD - The user clicks Run button in Applications in Stack
+[INFO ] 2023-04-16 18:49:17.436 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:17.767 [main] LinkedListSD - The user clicks Introduction in Linked List
+[INFO ] 2023-04-16 18:49:18.116 [main] LinkedListSD - The user clicks Try here button in Introduction in Linked List
+[INFO ] 2023-04-16 18:49:18.290 [main] LinkedListSD - The user enters Python code in Introduction in Linked List
+[INFO ] 2023-04-16 18:49:19.418 [main] LinkedListSD - The user clicks run button in Linked List
+[INFO ] 2023-04-16 18:49:19.814 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:20.145 [main] LinkedListSD - The user clicks Creating Linked List in Linked List
+[INFO ] 2023-04-16 18:49:20.483 [main] LinkedListSD - The user clicks try here button in creating Linked List
+[INFO ] 2023-04-16 18:49:20.611 [main] LinkedListSD - The user enters python code in creating Linked List
+[INFO ] 2023-04-16 18:49:21.708 [main] LinkedListSD - The user clicks run button in creating Linked List
+[INFO ] 2023-04-16 18:49:22.101 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:22.807 [main] LinkedListSD - The user clicks types of Linked List
+[INFO ] 2023-04-16 18:49:23.160 [main] LinkedListSD - The user clicks try here button in types of Linked List
+[INFO ] 2023-04-16 18:49:23.299 [main] LinkedListSD - The user enters python code in types of Linked List
+[INFO ] 2023-04-16 18:49:24.424 [main] LinkedListSD - The user clicks run button in types of Linked List
+[INFO ] 2023-04-16 18:49:24.807 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:25.130 [main] LinkedListSD - The user clicks Implement Linked List
+[INFO ] 2023-04-16 18:49:25.467 [main] LinkedListSD - The user clicks try here button in Implement Linked List
+[INFO ] 2023-04-16 18:49:25.598 [main] LinkedListSD - The user enters python code in Implement Linked List
+[INFO ] 2023-04-16 18:49:26.713 [main] LinkedListSD - The user clicks run button Implement Linked List
+[INFO ] 2023-04-16 18:49:27.135 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:27.452 [main] LinkedListSD - The user clicks traversal in Linked List
+[INFO ] 2023-04-16 18:49:27.791 [main] LinkedListSD - The user clicks try here button in traversal in Linked List
+[INFO ] 2023-04-16 18:49:27.967 [main] LinkedListSD - The user enters python code in traversal in Linked List
+[INFO ] 2023-04-16 18:49:29.075 [main] LinkedListSD - The user clicks run button in traversal in Linked List
+[INFO ] 2023-04-16 18:49:29.498 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:29.830 [main] LinkedListSD - The user clicks insertion in Linked List
+[INFO ] 2023-04-16 18:49:30.163 [main] LinkedListSD - The user clicks try here button in insertion in Linked List
+[INFO ] 2023-04-16 18:49:30.294 [main] LinkedListSD - The user enters python code in insertion in Linked List
+[INFO ] 2023-04-16 18:49:31.383 [main] LinkedListSD - The user clicks run button in insertion in Linked List
+[INFO ] 2023-04-16 18:49:31.787 [main] LinkedListSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:32.113 [main] LinkedListSD - The user clicks deletion in Linked List
+[INFO ] 2023-04-16 18:49:32.464 [main] LinkedListSD - The user clicks try here button in deletion in Linked List
+[INFO ] 2023-04-16 18:49:32.592 [main] LinkedListSD - The user enters python code in deletion in Linked List
+[INFO ] 2023-04-16 18:49:33.694 [main] LinkedListSD - The user clicks run button in deletion in Linked List
+[INFO ] 2023-04-16 18:49:34.130 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:34.503 [main] StackSD - The user clicks Operations in Stack
+[INFO ] 2023-04-16 18:49:34.882 [main] StackSD - The user clicks Try here in Operations in Stack
+[INFO ] 2023-04-16 18:49:35.236 [main] StackSD - The user enters the Python code in Operations in Stackk
+[INFO ] 2023-04-16 18:49:36.631 [main] StackSD - The user clicks Run button in Operations in Stack
+[INFO ] 2023-04-16 18:49:36.945 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:37.229 [main] StackSD - The user clicks Implementation in Stack
+[INFO ] 2023-04-16 18:49:37.575 [main] StackSD - The user clicks Try here in Implementation in Stack
+[INFO ] 2023-04-16 18:49:37.685 [main] StackSD - The user enters the Python code in Implementation in Stack
+[INFO ] 2023-04-16 18:49:38.801 [main] StackSD - The user clicks Run button in Implementation in Stack
+[INFO ] 2023-04-16 18:49:39.127 [main] StackSD - The user clicks the get started button
+[INFO ] 2023-04-16 18:49:39.453 [main] StackSD - The user clicks Applications in Stack
+[INFO ] 2023-04-16 18:49:39.798 [main] StackSD - The user clicks Try here in Applications in Stack
+[INFO ] 2023-04-16 18:49:39.930 [main] StackSD - The user enters the invalid Python code in Applications in Stack
+[INFO ] 2023-04-16 18:49:41.065 [main] StackSD - The user clicks Run button in Applications in Stack
