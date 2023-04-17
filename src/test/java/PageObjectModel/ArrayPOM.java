@@ -10,7 +10,7 @@ public class ArrayPOM {
 		PageFactory.initElements(webdriver, this);
 	}
 
-
+//This is a Page factory model
 	
     @FindBy (xpath=("//h5[text()='Array']/..//a[text()='Get Started']")) WebElement getStartedArray;
     
